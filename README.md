@@ -2,7 +2,7 @@
 
 
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Swaveel Fayaz
 
 ### 🤖 AI/ML & Robotics Enthusiast | 🐍 Python | ⚛️ React/Next.js
 
