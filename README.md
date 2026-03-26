@@ -19,7 +19,7 @@
 - 🌱 Currently learning **Reinforcement Learning** & **Transformer architectures**
 - 💡 Interested in bridging AI with the physical world through robotics
 - 🎯 Open to collaborations on **AI/ML research** and **robotics projects**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **swaveelgssf007@gmail.com**
 
 ---
 
